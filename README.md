@@ -5,9 +5,6 @@ This repository contains SynthBlocks PoC modules based on pre-existing, open sou
 Each PoC module has its own README, containing a brief description of the module and its files, as well as a link to the source circuit.
 oldBloks contains designs for first-party modules, which have been temporarily abandoned in favor of developing the standard using PoC modules. PoC modules are given their own folders, named according to function and source.
 
-### Development
-You can follow the development of this project, among many others, on [Twitch](https://www.twitch.tv/wubb_gmbaa).
-
 ### Legal Stuff
 All modules in this repository are subject to the terms of the designs from which they are based, where applicable.
 The form factor itself is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
